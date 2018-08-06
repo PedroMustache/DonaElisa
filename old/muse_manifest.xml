@@ -1,0 +1,98 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.donaelisa.com.br" resolutions="1x" timestamp="1483531294852">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="3890813050" ref="index"/>
+    <file name="index.css" crc="4249540948" ref="index"/>
+    <file name="iefonts_index.css" crc="4241497691" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="video_teste.jpg" crc="189862991" seo="true" mt="1467224069000"/>
+    <file name="video_teste.mp4" crc="341308542" seo="true" mt="1467228349000"/>
+    <file name="video_teste.webm" crc="515753321" seo="true" mt="1467060062000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3997014957" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-298831x90.svg" crc="87658142" ref="index"/>
+    <file name="pasted svg 298831x90_poster_.png" crc="4164059942" ref="index"/>
+    <file name="pasted-svg-803x80.svg" crc="3941394933" ref="index"/>
+    <file name="pasted svg 803x80_poster_.png" crc="379642923" ref="index"/>
+    <file name="pasted-svg-81986x81.svg" crc="3776193992" ref="index"/>
+    <file name="pasted svg 81986x81_poster_.png" crc="4128214048" ref="index"/>
+    <file name="pasted-svg-462799x369.svg" crc="337931114" ref="index"/>
+    <file name="pasted svg 462799x369_poster_.png" crc="3895017342" ref="index"/>
+    <file name="pasted-svg-4945x49.svg" crc="3973009342" ref="index"/>
+    <file name="pasted svg 4945x49_poster_.png" crc="187319450" ref="index"/>
+    <file name="pasted-svg-2073731x23.svg" crc="3978819764" ref="index"/>
+    <file name="pasted svg 2073731x23_poster_.png" crc="195382648" ref="index"/>
+    <file name="1_saladas.jpg" crc="20224098" ref="index"/>
+    <file name="1_rollover_saladas.jpg" crc="109913665" ref="index"/>
+    <file name="2_arroz.jpg" crc="426072327" ref="index"/>
+    <file name="2_rollover_arroz.jpg" crc="34704740" ref="index"/>
+    <file name="3_cuscuz.jpg" crc="345127997" ref="index"/>
+    <file name="3_rollover_cuscuz.jpg" crc="244804119" ref="index"/>
+    <file name="4_carne_porco.jpg" crc="4263743280" ref="index"/>
+    <file name="4_rollover_carne_porco.jpg" crc="68582625" ref="index"/>
+    <file name="5_carne_boi.jpg" crc="392229639" ref="index"/>
+    <file name="5_rollover_carne_boi.jpg" crc="467267988" ref="index"/>
+    <file name="6_carne_frango.jpg" crc="345082132" ref="index"/>
+    <file name="6_rollover_carne_frango.jpg" crc="3996378455" ref="index"/>
+    <file name="7_natalinos.jpg" crc="163452034" ref="index"/>
+    <file name="7_rollover_natalinos.jpg" crc="425616729" ref="index"/>
+    <file name="8_torta_frango.jpg" crc="4283409761" ref="index"/>
+    <file name="8_rollover_tortas.jpg" crc="56259085" ref="index"/>
+    <file name="9_massas.jpg" crc="511588440" ref="index"/>
+    <file name="9_rollover_massas.jpg" crc="449351056" ref="index"/>
+    <file name="10_panquecas.jpg" crc="3759205901" ref="index"/>
+    <file name="10_rollover_panquecas.jpg" crc="522941198" ref="index"/>
+    <file name="11_escondidinho.jpg" crc="30872695" ref="index"/>
+    <file name="11_rollover_escondidinhos.jpg" crc="4270513910" ref="index"/>
+    <file name="12_farofa.jpg" crc="3979753252" ref="index"/>
+    <file name="12_rollover_farofas.jpg" crc="4183313842" ref="index"/>
+    <file name="13_salgado_frito.jpg" crc="439681738" ref="index"/>
+    <file name="13_rollover_salgados_fritos.jpg" crc="3878531443" ref="index"/>
+    <file name="14_salgado_assado.jpg" crc="492239388" ref="index"/>
+    <file name="14_rollover_salgados_assados.jpg" crc="3767122903" ref="index"/>
+    <file name="15_sobremesa.jpg" crc="3836679978" ref="index"/>
+    <file name="15_rollover_sobremesas.jpg" crc="464303472" ref="index"/>
+    <file name="16_marmitas.jpg" crc="3822069579" ref="index"/>
+    <file name="16_rollover_marmitas.jpg" crc="522227194" ref="index"/>
+    <file name="barra_menu.svg" crc="423932185" ref="index"/>
+    <file name="barra_menu_poster_.png" crc="4087285376" ref="index"/>
+    <file name="bg_acompanhe.jpg" crc="153952209" ref="index"/>
+    <file name="lasanha.png" crc="3871946847" seo="true" ref="index"/>
+    <file name="salada.png" crc="166007705" seo="true" ref="index"/>
+    <file name="faca-crop-u1194.png" crc="291909089" ref="index"/>
+    <file name="garfo.png" crc="409502351" seo="true" ref="index"/>
+    <file name="pasted-svg-594668x168.svg" crc="346181154" ref="index"/>
+    <file name="pasted svg 594668x168_poster_.png" crc="270391000" ref="index"/>
+    <file name="pasted-svg-480x57.svg" crc="418356309" ref="index"/>
+    <file name="pasted svg 480x57_poster_.png" crc="222631543" ref="index"/>
+    <file name="delisa.svg" crc="4180137361" ref="index"/>
+    <file name="delisa_poster_.png" crc="14639774" ref="index"/>
+    <file name="_mustache_rodape_site_b.png" crc="5940032" seo="true" ref="index"/>
+    <file name="1_slide.jpg" crc="3799960379" seo="true" ref="index"/>
+    <file name="2_slide.jpg" crc="470571504" seo="true" ref="index"/>
+    <file name="3_slide.jpg" crc="4051240647" seo="true" ref="index"/>
+    <file name="4_slide.jpg" crc="310717635" seo="true" ref="index"/>
+    <file name="5_slide.jpg" crc="20552730" seo="true" ref="index"/>
+    <file name="6_slide.jpg" crc="4250732194" seo="true" ref="index"/>
+    <file name="pasted-svg-1637x17.svg" crc="456790069" ref="index"/>
+    <file name="pasted svg 1637x17_poster_.png" crc="4141330196" ref="index"/>
+  </folder>
+  <file name="index.html" crc="231090875" seo="true" mt="1483531265659" redirect="true"/>
+</manifest>

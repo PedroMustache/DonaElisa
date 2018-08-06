@@ -1,0 +1,18 @@
+#Options -MultiViews
+#RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^([^\.]+)$ $1.html [NC,L]
+# Begin Muse Generated redirects
+# End Muse Generated redirects
+
+
+RewriteEngine On
+# Hide .html extension
+## External Redirect
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+RewriteRule ^ %1 [R,NC]
+
+## ## Internal Redirect
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^ %{REQUEST_URI}.html

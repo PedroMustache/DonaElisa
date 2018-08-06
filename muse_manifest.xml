@@ -1,0 +1,299 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.donaelisa.com.br" resolutions="1x" timestamp="1528815651048">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="131431386" ref="index"/>
+    <file name="master_a-master-dia-das-maes.css" crc="3957348161" ref="diadasmaes"/>
+    <file name="index.css" crc="215806326" ref="index"/>
+    <file name="iefonts_index.css" crc="497403791" ref="index"/>
+    <file name="diadasmaes.css" crc="314017743" ref="diadasmaes"/>
+    <file name="iefonts_diadasmaes.css" crc="3952406610" ref="diadasmaes"/>
+    <file name="untitled-4.css" crc="399501618" ref="untitled-4"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:diadasmaes:untitled-4"/>
+    <file name="museutils.js" crc="3803043152" ref="index:diadasmaes:untitled-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:diadasmaes:untitled-4"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:diadasmaes:untitled-4"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:diadasmaes:untitled-4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:diadasmaes"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:diadasmaes:untitled-4"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3997014957" ref="index"/>
+    <file name="1_slide.jpg" crc="3799960379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2_slide.jpg" crc="470571504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_slide.jpg" crc="4051240647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_slide.jpg" crc="310717635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_slide.jpg" crc="20552730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_slide.jpg" crc="4250732194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pasted-svg-2073731x23.svg" crc="3978819764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 2073731x23_poster_.png" crc="195382648" ref="index"/>
+    <file name="pasted-svg-462799x369.svg" crc="337931114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 462799x369_poster_.png" crc="3895017342" ref="index"/>
+    <file name="pasted-svg-4945x49.svg" crc="3973009342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 4945x49_poster_.png" crc="187319450" ref="index"/>
+    <file name="selo.png" crc="522044240" seo="true" ref="diadasmaes:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="confira-nosso-cardapio.png" crc="4108288767" seo="true" ref="diadasmaes:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="1_saladas.jpg" crc="20224098" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_rollover_saladas.jpg" crc="109913665" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_arroz.jpg" crc="426072327" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_rollover_arroz.jpg" crc="34704740" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_cuscuz.jpg" crc="345127997" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_rollover_cuscuz.jpg" crc="244804119" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_carne_porco.jpg" crc="4263743280" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4_rollover_carne_porco.jpg" crc="68582625" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_carne_boi.jpg" crc="392229639" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_rollover_carne_boi.jpg" crc="467267988" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_carne_frango.jpg" crc="345082132" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6_rollover_carne_frango.jpg" crc="3996378455" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_natalinos.jpg" crc="163452034" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_rollover_natalinos.jpg" crc="425616729" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_torta_frango.jpg" crc="4283409761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8_rollover_tortas.jpg" crc="56259085" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9_massas.jpg" crc="511588440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9_rollover_massas.jpg" crc="449351056" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10_panquecas.jpg" crc="3759205901" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10_rollover_panquecas.jpg" crc="522941198" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_escondidinho.jpg" crc="30872695" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11_rollover_escondidinhos.jpg" crc="4270513910" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_farofa.jpg" crc="3979753252" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_rollover_farofas.jpg" crc="4183313842" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_salgado_frito.jpg" crc="439681738" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_rollover_salgados_fritos.jpg" crc="3878531443" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_salgado_assado.jpg" crc="492239388" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14_rollover_salgados_assados.jpg" crc="3767122903" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_sobremesa.jpg" crc="3836679978" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_rollover_sobremesas.jpg" crc="464303472" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16_marmitas.jpg" crc="3822069579" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16_rollover_marmitas.jpg" crc="522227194" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barra_menu.svg" crc="423932185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="barra_menu_poster_.png" crc="4087285376" ref="index"/>
+    <file name="pasted-svg-1637x17.svg" crc="456790069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1637x17_poster_.png" crc="4141330196" ref="index"/>
+    <file name="bg_acompanhe.jpg" crc="153952209" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lasanha.png" crc="3871946847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="salada.png" crc="166007705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="faca-crop-u1194.png" crc="291909089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="garfo.png" crc="409502351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-594668x168.svg" crc="346181154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 594668x168_poster_.png" crc="270391000" ref="index"/>
+    <file name="pasted-svg-480x57.svg" crc="418356309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 480x57_poster_.png" crc="222631543" ref="index"/>
+    <file name="delisa.svg" crc="4180137361" seo="true" ref="index:diadasmaes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="delisa_poster_.png" crc="14639774" ref="index:diadasmaes"/>
+    <file name="_mustache_rodape_site_b.png" crc="5940032" seo="true" ref="index:diadasmaes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="pasted-svg-803x80.svg" crc="3941394933" seo="true" ref="index:diadasmaes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="pasted svg 803x80_poster_.png" crc="379642923" ref="index:diadasmaes"/>
+    <file name="pasted-svg-81986x81.svg" crc="3776193992" seo="true" ref="index:diadasmaes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="pasted svg 81986x81_poster_.png" crc="4128214048" ref="index:diadasmaes"/>
+    <file name="pasted-svg-298831x90.svg" crc="87658142" seo="true" ref="index:diadasmaes">
+      <caption webpage="index" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+    </file>
+    <file name="pasted svg 298831x90_poster_.png" crc="4164059942" ref="index:diadasmaes"/>
+    <file name="a-master-dia-das-maes-favicon.ico" crc="3997014957" ref="diadasmaes"/>
+    <file name="2018_04_19_cardapio_maes_hotsite.jpg" crc="4120360122" ref="diadasmaes">
+      <caption webpage="diadasmaes" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+    </file>
+    <file name="u9872-4.png" crc="4122218094" ref="diadasmaes"/>
+    <file name="vector smart object.png" crc="4123056062" seo="true" ref="diadasmaes">
+      <caption webpage="diadasmaes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+    </file>
+    <file name="vector smart object copy.png" crc="365145469" seo="true" ref="diadasmaes">
+      <caption webpage="diadasmaes" alt=""/>
+      <caption webpage="diadasmaes" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+    </file>
+    <file name="u9912-6.png" crc="407479632" ref="diadasmaes"/>
+    <file name="coracao-telefone.png" crc="24233648" seo="true" ref="diadasmaes">
+      <caption webpage="diadasmaes" alt=""/>
+      <caption webpage="dia-das-maes" alt=""/>
+      <caption webpage="dona-elisa-dia-das-maes" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="513681385" seo="true" mt="1528815593402" redirect="true"/>
+  <file name="diadasmaes.html" crc="478197883" seo="true" mt="1524493041011" redirect="true"/>
+  <file name="untitled-4.html" crc="310532451" seo="true" mt="1528815554490" redirect="true"/>
+</manifest>
